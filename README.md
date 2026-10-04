@@ -39,4 +39,4 @@ RISEN is built around one idea: showing up counts, even when you don't win. The 
 
 ## 🔗 Live Preview
 
-*(Add a GitHub Pages link here after deploying)*
+ https://codewithagares.github.io/risen-product-page/
