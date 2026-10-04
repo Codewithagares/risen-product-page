@@ -32,11 +32,6 @@ RISEN is built around one idea: showing up counts, even when you don't win. The 
 - Structuring a real multi-part HTML page without losing track of opening/closing tags
 - Git & GitHub workflow, including recovering from a messy multi-project push
 
-## 🚧 Next Steps
-
-- Add JavaScript so the gallery, size/color selection, and quantity stepper actually function
-- Add responsive design for mobile/tablet
-
 ## 🔗 Live Preview
 
  https://codewithagares.github.io/risen-product-page/
