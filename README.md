@@ -1,4 +1,4 @@
-# 🧡 RISEN — Axis Hooded Jacket (Product Page)
+#  RISEN — Axis Hooded Jacket (Product Page)
 ![RISEN Product Page Preview](preview.jpg)
 
 An e-commerce product page built with HTML & CSS for **RISEN**, a fictional sportswear brand I designed — built for people who move for fun, health, or friends, not just athletes.
